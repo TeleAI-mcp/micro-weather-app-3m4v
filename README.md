@@ -1,2 +1,3 @@
-# micro-weather-app-3m4v
-Automated issue comment bot repository
+# Micro Weather App 3M4V
+
+Automated issue comment bot repository.
